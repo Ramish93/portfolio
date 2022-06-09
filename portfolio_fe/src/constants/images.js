@@ -7,9 +7,11 @@ import figma from "../assets/figma.png";
 import flutter from "../assets/flutter.png";
 import git from "../assets/git.png";
 import graphql from "../assets/graphql.png";
+import Hero from "../assets/Hero.png";
 import html from "../assets/html.png";
 import javascript from "../assets/javascript.png";
 import mu5 from "../assets/mu5.png";
+import logoRamish from "../assets/logoRamish4.png";
 import node from "../assets/node.png";
 import python from "../assets/python.png";
 import react from "../assets/react.png";
@@ -36,6 +38,8 @@ import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
 export default {
+  logoRamish,
+  Hero,
   email,
   mobile,
   api,
